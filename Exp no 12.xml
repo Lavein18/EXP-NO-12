@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+ <employee>
+ <id>12345</id>
+ <name>A</name>
+ <position>AB</position>
+ <salary>00</salary>
+ </employee>
+ <employee>
+ <id>2</id>
+ <name>B</name>
+ <position>BD</position>
+ <salary>50</salary>
+ </employee>
+ <employee>
+ <id>3</id>
+ <name>CO</name>
+ <position>DAA</position>
+ <salary>50</salary>
+ </employee>
+ <employee>
+ <id>4</id>
+ <name>Emily Wong</name>
+ <position>Developer</position>
+ <salary>85000</salary>
+ </employee>
+ <employee>
+ <id>5</id>
+ <name>Mark Davis</name>
+ <position>Manager</position>
+ <salary>95000</salary>
+ </employee>
+</employees>
